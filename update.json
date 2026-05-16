@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/corexchange1/checkin/releases/download/v1.1.1/ChamCong-RFID-1.1.1-x64-Setup.exe",
-  "fileName": "ChamCong-RFID-1.1.1-x64-Setup.exe",
-  "notes": "Cập nhật màn hình Setting: dùng update.json cố định trên GitHub, chỉ giữ nút check update và cài đặt."
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/corexchange1/checkin/releases/download/v1.1.2/ChamCong-RFID-1.1.2-x64-Setup.exe",
+  "fileName": "ChamCong-RFID-1.1.2-x64-Setup.exe",
+  "notes": "Cập nhật version 1.1.2 và đồng bộ icon app với shortcut ngoài Desktop."
 }
